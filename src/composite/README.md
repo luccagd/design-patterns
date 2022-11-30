@@ -3,6 +3,9 @@
 ### Definição oficial
 > O Padrão Composite permite que você componha objetos em estruturas de árvore para representar hierarquias parte-todo. Com esse padrão, os cientes podem tratar objetos individuais ou composições de objetos de maneira uniforme.
 
+<p align="center">
+  <img src="https://refactoring.guru/images/patterns/diagrams/composite/structure-en.png" />
+</p>
 <br>
 
 ### Aplicabilidade
