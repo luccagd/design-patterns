@@ -3,6 +3,9 @@
 ### Definição oficial
 > O Padrão Iterator fornece uma maneira de acessar sequencialmente os elementos de um objeto agregado sem expor a sua representação subjacente.
 
+<p align="center">
+  <img src="https://refactoring.guru/images/patterns/diagrams/iterator/structure.png" />
+</p>
 <br>
 
 ### Aplicabilidade
