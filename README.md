@@ -15,13 +15,13 @@ Outras referências bastante utilizadas foram o site [Refactoring Guru](https://
 - [ ] Observer
 - [ ] Command
 - [ ] Template Method
-- [ ] Iterator
+- [x] Iterator
 - [ ] State
 
 ### Estruturais
 - [ ] Decorator
 - [ ] Adapter
-- [ ] Composite
+- [x] Composite
 - [ ] Proxy
 
 ### Criacionais
