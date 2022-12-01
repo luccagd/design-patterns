@@ -16,7 +16,7 @@ Outras referências bastante utilizadas foram o site [Refactoring Guru](https://
 - [ ] Command
 - [ ] Template Method
 - [x] Iterator
-- [ ] State
+- [x] State
 
 ### Estruturais
 - [ ] Decorator
