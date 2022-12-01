@@ -8,7 +8,7 @@
 
 
 
-Conforme recebe determinadas ações desejamos que a nossa máquina gerencie o seu estado interno, passando de um estado a outro e que nos informe se determinada ação é inválida para o estado atual.
+Conforme recebe determinadas ações, desejamos que a nossa máquina gerencie o seu estado interno, passando de um estado a outro e que nos informe se determinada ação é inválida para o estado atual.
 
 ## Sem o padrão State
 Quando uma ação é executada na nossa máquina de goma de mascar, ela deve verificar se a ação é válida para o seu estado atual.
