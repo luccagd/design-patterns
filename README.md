@@ -12,7 +12,7 @@ Outras referências bastante utilizadas foram o site [Refactoring Guru](https://
 ## Design Patterns neste repositório
 ### Comportamentais
 - [ ] Strategy
-- [ ] Observer
+- [x] Observer
 - [ ] Command
 - [ ] Template Method
 - [x] Iterator
