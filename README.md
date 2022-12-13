@@ -19,7 +19,7 @@ Outras referências bastante utilizadas foram o site [Refactoring Guru](https://
 - [x] State
 
 ### Estruturais
-- [ ] Decorator
+- [x] Decorator
 - [ ] Adapter
 - [x] Composite
 - [ ] Proxy
