@@ -22,8 +22,7 @@ Outras referências bastante utilizadas foram o site [Refactoring Guru](https://
 - [x] Decorator
 - [ ] Adapter
 - [x] Composite
-- [ ] Proxy
 
 ### Criacionais
 - [ ] Factory
-- [ ] Singleton
+- [x] Singleton
