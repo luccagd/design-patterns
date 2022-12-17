@@ -13,7 +13,7 @@ Outras referências bastante utilizadas foram o site [Refactoring Guru](https://
 ### Comportamentais
 - [ ] Strategy
 - [x] Observer
-- [ ] Command
+- [x] Command
 - [ ] Template Method
 - [x] Iterator
 - [x] State
